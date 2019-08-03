@@ -4,4 +4,9 @@ blah
 zzzzzzz
 
 blah
+<<<<<<< HEAD
 b3b3b3
+=======
+b2
+b2
+>>>>>>> b2
