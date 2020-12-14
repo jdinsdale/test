@@ -5,10 +5,6 @@ and again
 zzzz
 blah
 mofo
-<<<<<<< HEAD
-b3b3b3
-=======
 ksksks
 b2
 b2
->>>>>>> b2v
